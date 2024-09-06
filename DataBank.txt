@@ -1,0 +1,8 @@
+Nomor Rekening: 123456
+Nama Pemilik: gerald
+Jumlah:Rp 5000.0
+---------------------------
+Nomor Rekening: 123123
+Nama Pemilik: grgr
+Jumlah:Rp 700.0
+---------------------------
